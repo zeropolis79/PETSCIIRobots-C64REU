@@ -1,0 +1,15 @@
+*.sym
+
+boot-64x
+game-64x
+hrfont-64x
+hrintro-64x
+hrsprites-64x
+loader-64x
+mcbackground-64x
+mcendgame-64x
+mcfaces-64x
+mcfont-64x
+mcitems-64x
+mctiles-64x
+mcweapons-64x
